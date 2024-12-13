@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, sans-serif;
+  background-image: url('greengrid.jpg'); 
+  /* background-size: cover; */
+  background-position: center; 
+  display: flex; 
+  justify-content: center;
+  align-items: center;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0;
+    height: 100vh;
+}
+form{
+    background-color: rgb(52, 52, 52);
+    background-size: cover;
+    width: 300px;
+    height: 350px;
+    border-radius: 15;
+    padding: 10%;
+}
+h1{
+    color:rgb(33, 241, 33);
+    text-align: center;
+
+}
+button{
+    color: black;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    box-shadow: rgb(52, 52, 52);
+}
+input{
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    margin-left: -10px;
+
+}
+a{
+    margin-top:-37px;
+    margin-left: 250px;
+}
+div{
+    padding-right: 60px;
+}
